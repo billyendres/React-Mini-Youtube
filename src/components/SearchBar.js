@@ -17,10 +17,26 @@ class SearchBar extends Component {
 
 	render() {
 		return (
-			<div className="SearchBar ui segment">
+			<div
+				style={{
+					marginTop: "3em",
+					marginBottom: "3em",
+					backgroundColor: "rgba(0, 0, 1, 0.6)"
+				}}
+				className="SearchBar ui segment"
+			>
 				<form onSubmit={this.formSubmit} className="ui form">
 					<div className="field">
-						<label>Video Search</label>
+						<label
+							style={{
+								color: "white",
+								fontSize: "2em",
+								textAlign: "center",
+								padding: "0.5em"
+							}}
+						>
+							SEARCH FOR A VIDEO
+						</label>
 						<input
 							type="text"
 							value={this.state.searchTerm}
