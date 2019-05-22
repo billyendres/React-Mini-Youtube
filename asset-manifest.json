@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Mini-Youtube/static/css/main.4629e43d.chunk.css",
-    "main.js": "/React-Mini-Youtube/static/js/main.2d5faa27.chunk.js",
-    "main.js.map": "/React-Mini-Youtube/static/js/main.2d5faa27.chunk.js.map",
+    "main.css": "/React-Mini-Youtube/static/css/main.bd62e49b.chunk.css",
+    "main.js": "/React-Mini-Youtube/static/js/main.03f044bc.chunk.js",
+    "main.js.map": "/React-Mini-Youtube/static/js/main.03f044bc.chunk.js.map",
     "runtime~main.js": "/React-Mini-Youtube/static/js/runtime~main.39ba8fa9.js",
     "runtime~main.js.map": "/React-Mini-Youtube/static/js/runtime~main.39ba8fa9.js.map",
     "static/js/2.b5f6079a.chunk.js": "/React-Mini-Youtube/static/js/2.b5f6079a.chunk.js",
     "static/js/2.b5f6079a.chunk.js.map": "/React-Mini-Youtube/static/js/2.b5f6079a.chunk.js.map",
     "index.html": "/React-Mini-Youtube/index.html",
-    "precache-manifest.7cc5a35b84582a5747bbcae1e6f1e425.js": "/React-Mini-Youtube/precache-manifest.7cc5a35b84582a5747bbcae1e6f1e425.js",
+    "precache-manifest.c4298823abdb60e180e5239278fe1b54.js": "/React-Mini-Youtube/precache-manifest.c4298823abdb60e180e5239278fe1b54.js",
     "service-worker.js": "/React-Mini-Youtube/service-worker.js",
-    "static/css/main.4629e43d.chunk.css.map": "/React-Mini-Youtube/static/css/main.4629e43d.chunk.css.map"
+    "static/css/main.bd62e49b.chunk.css.map": "/React-Mini-Youtube/static/css/main.bd62e49b.chunk.css.map"
   }
 }
