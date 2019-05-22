@@ -2,7 +2,7 @@
 	"name": "youtube-api",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://billyendres.github.io/React-Mini_Youtube",
+	"homepage": "http://billyendres.github.io/React-Mini-Youtube",
 	"devDependencies": {
 		"react-scripts": "3.0.1"
 	},
